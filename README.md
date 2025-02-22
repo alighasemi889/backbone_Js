@@ -1,7 +1,11 @@
 # backbone_Js
-How js works behind the seane
+
+
 
 # **Execution Context in JavaScript**
+
+
+![mFQtgsb](https://github.com/user-attachments/assets/79b37740-7760-4d9f-afab-9b2feaea68ef)
 
 ## **Overview**
 
